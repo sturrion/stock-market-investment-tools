@@ -5,6 +5,10 @@
 * sp500.csv - data got from wikipedia (1/nov/2018)
 * nasdaq100.csv - data got from wikipedia (1/nov/2018)
 
+## data/hist:
+* some historical data from yahoo finance
+
 ## notebooks:
 * get_market_data_csv: Merges data from dow.csv, sp500.csv and nasdaq100.csv with data provided for free by [IEX](https://iextrading.com/developer). View [IEX’s Terms of Use](https://iextrading.com/api-exhibit-a/). 
+* first_simulation: Simulates the purchase of a share every day and shows its performance. It works for a list of tickers.
 
